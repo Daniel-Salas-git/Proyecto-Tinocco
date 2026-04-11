@@ -1,1 +1,3 @@
 Se creo el login
+
+se hizo la solicitud de tickets y la creacion de del panel de administracion
