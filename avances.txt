@@ -3,3 +3,5 @@ Se creo el login
 se hizo la solicitud de tickets y la creacion de del panel de administracion
 
 se agregó el dashboard administrativo con estadísticas e informe CSV 
+
+se integró reCAPTCHA real en el login y se añadió un interceptor de token para proteger peticiones
